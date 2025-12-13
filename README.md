@@ -25,7 +25,7 @@ This work is inspired by the research paper:
 - Nawal Maher Massa
 - Ahmed A. Hamouda
 
-📄 [Read the Paper](Sort_reaserch.pdf)
+📄 [Read the Paper](paper.pdf)
 
 ## 🚀 Getting Started
 
@@ -96,7 +96,7 @@ Contributions are welcome! Feel free to:
 
 ## 👤 Author
 
-**[Your Name]**
+**[Youssef Baryoul]**
 
 - GitHub: [@Youssef Baryoul](https://github.com/BaryoulYoussef)
 - LinkedIn: [Youssef Baryoul](https://www.linkedin.com/in/youssef-baryoul/E)
